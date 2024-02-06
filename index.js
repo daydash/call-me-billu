@@ -2,4 +2,8 @@ const callMeBillu = (name) => {
 	console.log(`Hello, ${name} billu.`);
 };
 
-module.exports = callMeBillu;
+const callMe = (name) => {
+	console.log(`Jai Shree Ram, ${name} 🙏 🚩`);
+};
+
+module.exports = { callMeBillu, callMe };
