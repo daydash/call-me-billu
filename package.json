@@ -1,6 +1,6 @@
 {
 	"name": "call-me-billu",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"description": "this package contains the function which let you call your name with the special powerful and secret keyword - `billu`",
 	"main": "index.js",
 	"scripts": {
