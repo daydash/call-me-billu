@@ -3,7 +3,7 @@ const callMeBillu = (name) => {
 };
 
 const callMe = (name) => {
-	console.log(`Jai Shree Ram, ${name} 🙏 🚩`);
+	console.log(`Jai Shree Ram, ${name} Ji 🙏 🚩`);
 };
 
 module.exports = { callMeBillu, callMe };
